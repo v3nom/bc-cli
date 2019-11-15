@@ -1,0 +1,18 @@
+{
+    "name": "bc-cli",
+    "version": "1.0.0",
+    "description": "Dynamics 365 Business Central add-in project cli",
+    "author": "Tomas Grubliauskas",
+    "license": "MIT",
+    "repository": "git://github.com/v3nom/bc-cli.git",
+    "bugs": {
+        "url": "http://github.com/v3nom/bc-cli/issues"
+    },
+    "bin": {
+        "bc-cli": "./index.js"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "dependencies": {}
+}
